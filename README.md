@@ -20,6 +20,7 @@ Run in the command line the extract\_kfs.py script:
 python3 extract\_kfs.py in\_file out\_file
 
 in\_file the archive file
+
 out\_file the extracted archive path (a directory)
 
 ### Extract from PIC/ACT files
@@ -29,7 +30,9 @@ Run in the command line the extract\_pic.py script:
 python3 extract\_pic.py in\_file\_pic \[in\_file\_act\] out\_file
 
 in\_file\_pic the image data (pic file)
+
 in\_file\_act OPTIONAL the palette data (act file); if not given, the output image will have a grayscale palette
+
 out\_file the extracted image (png format)
 
 
@@ -40,4 +43,5 @@ Run in the command line the extract\_bin.py script:
 python3 extract\_bin.py in\_file out\_file
 
 in\_file the binary file
+
 out\_file the extracted image (png format)
