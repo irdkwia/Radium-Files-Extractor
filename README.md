@@ -17,11 +17,11 @@ Then, clone this repository or just download it
 
 Run in the command line the extract\_kfs.py script: 
 
-python3 extract\_kfs.py in\_file out\_file
+python3 extract\_kfs.py in\_file out\_dir
 
 in\_file the archive file
 
-out\_file the extracted archive path (a directory)
+out\_dir the extracted archive path (a directory)
 
 ### Extract from PIC/ACT files
 
