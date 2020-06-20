@@ -1,7 +1,7 @@
 # Radium Files Extractor
 
 Some python3 scripts to extract from kfs, graphic bin, pic and act files
-in the Radium game from Karma Studios
+in the Radium Pocket PC demo from Karma Studios
 
 ## How to install it
 
